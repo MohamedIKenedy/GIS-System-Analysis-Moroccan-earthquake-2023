@@ -147,16 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - leafmap developers for the visualization framework
 - Humanitarian OpenStreetMap Team for building footprint data
 
-## Citation
-If you use this code in your research, please cite:
-```
-@software{earthquake_damage_assessment,
-  author = {Your Name},
-  title = {Machine Learning-Based Earthquake Damage Assessment},
-  year = {2024},
-  url = {https://github.com/yourusername/morocco-earthquake-analysis}
-}
-```
+
 
 ## Contact
 For questions and support, please open an issue in the GitHub repository or contact [your@email.com](mailto:your@email.com).
